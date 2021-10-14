@@ -1,11 +1,8 @@
 Welcome to belajardulu's documentation!
 =======================================
 
-WIP
+.. toctree::
+   :maxdepth: 2
+   :caption: Django:
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   frameworks/000-introduction
